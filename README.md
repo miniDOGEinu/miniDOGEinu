@@ -1,4 +1,5 @@
 # miniDOGEinu
+![Trademark](https://raw.githubusercontent.com/miniDOGEinu/miniDOGEinu/main/miniDOGEinu_long_original_logo.png)
 HODL MiniDOGEInu to receive 20% CAKE rewards each cycle. Prepare for take off. 
 
 Registered company in the UK. Company number: 13566921
