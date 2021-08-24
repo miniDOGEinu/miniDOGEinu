@@ -14,3 +14,20 @@ https://bscscan.com/token/0x9b30183c2de913af677f8ab77cd9d26712b45fa8
 
 
 ![ICON](https://raw.githubusercontent.com/miniDOGEinu/miniDOGEinu/main/miniDOGEinu_square_original_logo.png)
+
+Homepage:"https://minidogeinu.finance/"
+
+Dashboard:"https://minidogeinu.app/"
+
+Panecakeswap V2:"https://pancakeswap.finance/swap#/swap?outputCurrency=0x9b30183c2de913af677f8ab77cd9d26712b45fa8"
+
+Poocoin_Chart:"https://poocoin.app/tokens/0x9b30183c2de913af677f8ab77cd9d26712b45fa8"
+
+Whitepape:"https://minidogeinu.app/whitepaper/miniDOGEinu-whitepaper.pdf"
+
+Telegram:"https://t.me/miniDOGEinu"
+
+Shareholder CSV:"https://bscscan.com/exportData?type=tokenholders&contract=0x9b30183c2de913af677f8ab77cd9d26712b45fa8&decimal=18"
+Download link
+
+Holder:"https://bscscan.com/token/0x9b30183c2de913af677f8ab77cd9d26712b45fa8#balances"
