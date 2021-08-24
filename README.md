@@ -11,3 +11,6 @@ The earned Cake you swap on TrustWallet, pancakeswap.finance or stake there your
 sell / swap Cake for re-invest in miniDOGEinu. 
 All the investors have the opinion to take profit and what they will do with that earned manager self.
 https://bscscan.com/token/0x9b30183c2de913af677f8ab77cd9d26712b45fa8
+
+
+![ICON](https://raw.githubusercontent.com/miniDOGEinu/miniDOGEinu/main/miniDOGEinu_square_original_logo.png)
